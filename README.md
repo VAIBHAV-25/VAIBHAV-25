@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-25&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-25" /> </p>
 
-- 🔭 I’m currently working at [Polkassembly](https://polkadot.polkassembly.io/opengov)
+- 🔭 I’m currently working at [Quickads](https://quickads.ai)
 
 - 🌱 I’m currently learning **Backend Technologies and Cloud**
 

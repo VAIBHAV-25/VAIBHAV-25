@@ -182,12 +182,6 @@
   </a>
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VAIBHAV-25/VAIBHAV-25/output/snake.svg" alt="Snake animation" />
-
-
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VAIBHAV-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -200,8 +194,6 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VAIBHAV-25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
